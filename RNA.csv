@@ -1,0 +1,19 @@
+Amino acid,RNA codons,Compressed
+"Ala, A","GCU, GCC, GCA, GCG",GCN
+"Asn, N","AAU, AAC",AAY
+"Asp, D","GAU, GAC",GAY
+"Asn or Asp, B","AAU, AAC; GAU, GAC",RAY
+"Cys, C","UGU, UGC",UGY
+"Gln, Q","CAA, CAG",CAR
+"Glu, E","GAA, GAG",GAR
+"Gln or Glu, Z","CAA, CAG; GAA, GAG",SAR
+"Gly, G","GGU, GGC, GGA, GGG",GGN
+"His, H","CAU, CAC",CAY
+START,"AUG, CUG, UUG",HUG
+"Ile, I","AUU, AUC, AUA",AUH
+"Lys, K","AAA, AAG",AAR
+"Phe, F","UUU, UUC",UUY
+"Pro, P","CCU, CCC, CCA, CCG",CCN
+"Thr, T","ACU, ACC, ACA, ACG",ACN
+"Tyr, Y","UAU, UAC",UAY
+"Val, V","GUU, GUC, GUA, GUG",GUN
